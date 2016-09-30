@@ -20,7 +20,7 @@ switch ($ip[0]) {
 		break;
 		
 	default :
-		exit ($ip."Serveur non reconnu...");
+		exit ($_SERVER['SERVER_ADDR']."Serveur non reconnu...");
 		break;
 }
 
