@@ -11,7 +11,7 @@ switch ($ip[0]) {
 		$dbname = "mesguen";
 		break;
 		
-	case mysql : 
+	case 31 : 
 		//serveur distant
 		$host = "mysql.hostinger.fr";
 		$user = "u921849841_knris";
