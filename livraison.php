@@ -15,12 +15,12 @@ include 'connect.php';
 	}
 	
 	if ($liveur >! $liv){
-		echo "<meta http-equiv='refresh' content='0;url=ac43.php?
+		echo "<meta http-equiv='refresh' content='0;url=ac11.php?
 				message=<font color=red> Probleme palette </font>'>";
 	}
 	
 	if ($chgeur >! $chg) {
-		echo "<meta http-equiv='refresh' content='0;url=ac43.php?
+		echo "<meta http-equiv='refresh' content='0;url=ac11.php?
 				message=<font color=red> probleme palette </font>'>";
 	}
 	
