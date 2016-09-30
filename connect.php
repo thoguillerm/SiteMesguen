@@ -11,12 +11,12 @@ switch ($ip[0]) {
 		$dbname = "mesguen";
 		break;
 		
-	case 10 : 
+	case mysql : 
 		//serveur distant
-		$host = "10.7.15.11";
-		$user = "slam";
-		$password  = "Iroise29";
-		$dbname = "mesguen";
+		$host = "mysql.hostinger.fr";
+		$user = "u921849841_knris";
+		$password  = "qaRYlcnc9O";
+		$dbname = "u921849841_ppeme";
 		break;
 		
 	default :
